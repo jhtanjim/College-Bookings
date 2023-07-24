@@ -1,0 +1,192 @@
+[
+    {
+        "collegeImage": "https://i.ibb.co/1KD3L4W/bigstock-the-curzon-hall-is-a-british-r-237225406-1593951367020.jpg",
+        "collegeName": "Dhaka University",
+        "collegeRating": 4.5,
+        "admissionDate": "2023-09-01",
+        "numberOfResearch": 120,
+        "detailsButtonLink": "/colleges/dhaka-university",
+        "details": "Dhaka University is one of the oldest and most prestigious universities in Bangladesh. It offers a wide range of undergraduate and postgraduate programs in various disciplines. The university campus is located in the heart of Dhaka city, and it has a rich history of academic excellence and research contributions.",
+        "events": [
+            "Annual Cultural Festival",
+            "Science Fair",
+            "Debating Competitions"
+        ],
+        "sports": [
+            "Football",
+            "Cricket",
+            "Basketball"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/2cpp9Cs/cmch-collected-1549256685001-1619589790142.jpg",
+        "collegeName": "Chittagong Medical College",
+        "collegeRating": 4.2,
+        "admissionDate": "2023-08-15",
+        "numberOfResearch": 80,
+        "detailsButtonLink": "/colleges/chittagong-medical-college",
+        "details": "Chittagong Medical College is a renowned medical institution in Bangladesh. It provides quality medical education and training to students who aspire to become medical professionals. The college campus is equipped with modern facilities and is known for producing skilled healthcare practitioners.",
+        "events": [
+            "Medical Conference",
+            "Health Awareness Camp",
+            "Medical Research Symposium"
+        ],
+        "sports": [
+            "Cricket",
+            "Badminton",
+            "Volleyball"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/pdnR7bq/web-national-university-1556867217374-1573754592816.jpg",
+        "collegeName": "Bangladesh National University",
+        "collegeRating": 4.9,
+        "admissionDate": "2023-09-10",
+        "numberOfResearch": 150,
+        "detailsButtonLink": "/colleges/bangladesh-national-university",
+        "details": "Bangladesh National University is the largest university in the country, offering a diverse range of academic programs. It plays a significant role in the development of higher education in Bangladesh. The university promotes research and innovation in various fields of study.",
+        "events": [
+            "Academic Conference",
+            "Cultural Extravaganza",
+            "Research Paper Presentation"
+        ],
+        "sports": [
+            "Football",
+            "Cricket",
+            "Table Tennis"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/b1hnjkB/BUET.jpg",
+        "collegeName": "Bangladesh University of Engineering and Technology",
+        "collegeRating": 4.3,
+        "admissionDate": "2023-08-20",
+        "numberOfResearch": 90,
+        "detailsButtonLink": "/colleges/buet",
+        "details": "Bangladesh University of Engineering and Technology, commonly known as BUET, is a prestigious engineering institution. It offers undergraduate and postgraduate programs in various engineering disciplines. The university is known for its strong focus on research and technological advancements.",
+        "events": [
+            "Engineering Expo",
+            "Tech Symposium",
+            "Robotics Competition"
+        ],
+        "sports": [
+            "Football",
+            "Cricket",
+            "Basketball"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/CtgfjSX/download.jpg",
+        "collegeName": "Rajshahi University",
+        "collegeRating": 4.7,
+        "admissionDate": "2023-09-05",
+        "numberOfResearch": 200,
+        "detailsButtonLink": "/colleges/rajshahi-university",
+        "details": "Rajshahi University is a renowned public university in Bangladesh. It offers a wide range of academic programs and has a beautiful campus with modern amenities. The university encourages research and has numerous research centers dedicated to various fields.",
+        "events": [
+            "Cultural Week",
+            "Science Exhibition",
+            "Literary Fest"
+        ],
+        "sports": [
+            "Football",
+            "Cricket",
+            "Volleyball"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/D4GsR0v/Khulna-medical-college-hospital-building.jpg",
+        "collegeName": "Khulna Medical College",
+        "collegeRating": 4.1,
+        "admissionDate": "2023-08-25",
+        "numberOfResearch": 110,
+        "detailsButtonLink": "/colleges/khulna-medical-college",
+        "details": "Khulna Medical College is a reputable medical institution in Khulna city. It offers a comprehensive medical education program and provides training to future healthcare professionals. The college has a well-equipped hospital where students gain practical experience in healthcare.",
+        "events": [
+            "Medical Camp",
+            "Health Awareness Program",
+            "Medical Seminar"
+        ],
+        "sports": [
+            "Cricket",
+            "Badminton",
+            "Basketball"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/16qGQBV/download-1.jpg",
+        "collegeName": "Bangladesh Agricultural University",
+        "collegeRating": 4.6,
+        "admissionDate": "2023-09-15",
+        "numberOfResearch": 180,
+        "detailsButtonLink": "/colleges/bangladesh-agricultural-university",
+        "details": "Bangladesh Agricultural University is a leading institution in the field of agricultural education and research. It offers a range of programs related to agriculture and allied sciences. The university is known for its contribution to agricultural development in the country.",
+        "events": [
+            "Agricultural Fair",
+            "Research Symposium",
+            "Farmers' Meet"
+        ],
+        "sports": [
+            "Football",
+            "Cricket",
+            "Tennis"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/pjcZtLV/download-2.jpg",
+        "collegeName": "Jahangirnagar University",
+        "collegeRating": 4.8,
+        "admissionDate": "2023-09-03",
+        "numberOfResearch": 250,
+        "detailsButtonLink": "/colleges/jahangirnagar-university",
+        "details": "Jahangirnagar University is a public university known for its picturesque campus and quality education. It offers various undergraduate and postgraduate programs in different fields. The university promotes research and has a vibrant academic community.",
+        "events": [
+            "Cultural Carnival",
+            "Academic Conference",
+            "Literary Fest"
+        ],
+        "sports": [
+            "Football",
+            "Cricket",
+            "Table Tennis"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/QvVVd7L/BUP-Pic-111.jpg",
+        "collegeName": "Bangladesh University of Professionals",
+        "collegeRating": 4.4,
+        "admissionDate": "2023-08-22",
+        "numberOfResearch": 70,
+        "detailsButtonLink": "/colleges/bup",
+        "details": "Bangladesh University of Professionals is a specialized public university focused on professional education. It offers programs in areas like business, security studies, public administration, and more. The university aims to produce skilled professionals for various sectors.",
+        "events": [
+            "Professional Development Workshop",
+            "Business Summit",
+            "Leadership Seminar"
+        ],
+        "sports": [
+            "Football",
+            "Cricket",
+            "Badminton"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/CMrrGBp/Dhaka-Medical-College.jpg",
+        "collegeName": "Dhaka Medical College",
+        "collegeRating": 4.0,
+        "admissionDate": "2023-09-07",
+        "numberOfResearch": 100,
+        "detailsButtonLink": "/colleges/dhaka-medical-college",
+        "details": "Dhaka Medical College is one of the oldest medical colleges in Bangladesh. It offers comprehensive medical education and training to aspiring medical professionals. The college has a well-established hospital where students gain practical experience in healthcare.",
+        "events": [
+            "Medical Symposium",
+            "Health Camp",
+            "Medical Research Exhibition"
+        ],
+        "sports": [
+            "Cricket",
+            "Football",
+            "Volleyball"
+        ]
+    }
+]
