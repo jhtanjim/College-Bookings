@@ -19,7 +19,7 @@ const SubmitCollege = () => {
     const onSubmit = (data) => {
         // Here you can handle the form submission and send the data to the server
 
-        fetch('http://localhost:5000/addmission', {
+        fetch('https://college-booking-server-beta.vercel.app/addmission', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

@@ -11,6 +11,7 @@ import MyCollege from '../Pages/Shared/MyCollege/MyCollege';
 import NotFound from '../Pages/Shared/NotFound/NotFound';
 import PrivateRoutes from './PrivateRoutes';
 import SubmitCollege from '../Pages/Shared/SubmitCollege/SubmitCollege';
+import AddReview from '../Pages/Shared/AddReview/AddReview';
 
 
 
@@ -30,7 +31,7 @@ const router = createBrowserRouter([
             {
                 path: 'collegeDetails/:id',
                 element: <CollegeDetails></CollegeDetails>,
-                loader: ({ params }) => fetch(`http://localhost:5000/colleges/${params.id}`)
+                loader: ({ params }) => fetch(`https://college-booking-server-beta.vercel.app/colleges/${params.id}`)
             },
             {
                 path: 'addmission',
@@ -55,6 +56,10 @@ const router = createBrowserRouter([
             {
                 path: 'myCollege',
                 element: <MyCollege></MyCollege>
+            },
+            {
+                path: 'addReviews',
+                element: <AddReview></AddReview>
             },
         ]
     },

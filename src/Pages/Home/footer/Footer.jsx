@@ -16,8 +16,8 @@ const Footer = () => {
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/colleges">Colleges</Link></li>
                     <li><Link to="/addmission">Admission</Link></li>
-                    {/* Show additional links if user has an email (logged in) */}
-                    <li><Link to="myCollege">My College</Link></li>
+
+
                     <li><Link to="/login">Login</Link></li>
 
 

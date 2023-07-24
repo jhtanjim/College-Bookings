@@ -15,6 +15,7 @@ const Navbar = () => {
             {user?.email ? (
                 <>
                     <li><Link to="myCollege">My College</Link></li>
+                    <li><Link to="addReviews">Add Reviews</Link></li>
 
                     <li><button onClick={logOut}>Log Out</button></li>
                 </>

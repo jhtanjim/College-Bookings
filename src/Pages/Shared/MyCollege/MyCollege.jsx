@@ -1,11 +1,12 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { AuthContext } from '../../Provider/AuthProvider';
+import { Link } from 'react-router-dom';
 
 const MyCollege = () => {
     const { user } = useContext(AuthContext);
     const [collegeDetails, setCollegeDetails] = useState([]);
 
-    const collegeUrl = `http://localhost:5000/addmission?email=${user.email}`;
+    const collegeUrl = `https://college-booking-server-beta.vercel.app/addmission?email=${user.email}`;
 
     useEffect(() => {
         fetch(collegeUrl)
@@ -30,8 +31,12 @@ const MyCollege = () => {
                             <p>Address: {college.address}</p>
                             <p>Date of Birth: {college.dateOfBirth}</p>
                             {/* Display other college details here */}
+                            <Link>
+                                <button className='bg-green-500 p-2 rounded-xl my-4'>Add Review</button>
+                            </Link>
                             <hr />
                         </div>
+
                     ))}
                 </div>
             ) : (
